@@ -15,3 +15,8 @@ https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html
 conda create -n v_env python=3.10
 3. Activate the conda environment and install dependencies
     - conda activate v_env``
+
+### Usage 
+```
+python3 .\ModellerSeq.py -in Sample.fasta -out test_process.fasta
+```
